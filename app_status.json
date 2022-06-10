@@ -1,0 +1,44 @@
+[
+  {
+    "name": "한글립",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  },
+  {
+    "name": "태그스캔",
+    "version": "1.0.5",
+    "num": 105,
+    "status": "prepublish"
+  },
+  {
+    "name": "환율",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  },
+  {
+    "name": "\b바코드스캔",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  },
+  {
+    "name": "위치저장",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  },
+  {
+    "name": "고통저장소",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  },
+  {
+    "name": "김치프리미엄",
+    "version": "1.0.18",
+    "num": 118,
+    "status": "publish"
+  }
+]
